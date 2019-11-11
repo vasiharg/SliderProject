@@ -1,0 +1,44 @@
+
+body {
+    background-color: #b2b2b2;
+    width: 100vw;
+    height: 100vh;
+    max-width: 100vw;
+    max-height: 100vh;
+    overflow: hidden;
+}
+
+figure  {
+    display: none;
+}
+
+h3 {
+    margin-bottom: 5px;
+    color: #8850f2;
+    top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
+
+p{
+ color: #8850f2;   
+}
+
+#targetImage {
+    margin: 5% auto;
+    padding: 3%;
+    top: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 50%;
+}
+
